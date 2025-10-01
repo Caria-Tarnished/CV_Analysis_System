@@ -75,7 +75,7 @@ pip install tensorflow
     ```
 3.  训练完成后，模型将自动保存为 `models/emotion_model.pth`。
 
-#### **选项 B: 下载预训练模型 (????)**
+#### **选项 B: 下载预训练模型 **
 
 你可以从Kaggle等平台下载训练好的模型文件 (`.pth`, `.h5`等)。
 
